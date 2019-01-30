@@ -59,8 +59,8 @@ def snowman():
 
     arm2 = Line(Point(320,400), Point(280,300))
     arm2.draw(win) 
-    #okay
     
+
 
 
 
